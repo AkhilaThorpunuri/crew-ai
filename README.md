@@ -167,7 +167,7 @@ Do not share your API key publicly.
 
 ## Step 1: Open NVIDIA AI
 
-Visit the NVIDIA AI platform and click **Login** to sign in or create a new account.
+Visit the NVIDIA AI platform and click Login/sign in or create a new account.
 
 https://build.nvidia.com/settings/api-keys
 
