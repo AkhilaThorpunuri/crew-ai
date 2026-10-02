@@ -163,7 +163,7 @@ After the API key is created, copy it and store it securely.
 Do not share your API key publicly.
 
 
-# NVIDIA NIM API Key Creation
+# NVIDIA API Key Creation
 
 ## Step 1: Open NVIDIA AI
 
